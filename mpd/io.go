@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Eyevinn/dash-mpd/xml"
+	"github.com/fubotv/dash-mpd/xml"
 )
 
 // countingWriter wraps an io.Writer and counts the bytes written.

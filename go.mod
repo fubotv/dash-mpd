@@ -1,4 +1,4 @@
-module github.com/Eyevinn/dash-mpd
+module github.com/fubotv/dash-mpd
 
 go 1.23.0
 

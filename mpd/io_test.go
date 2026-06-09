@@ -3,7 +3,7 @@ package mpd_test
 import (
 	"testing"
 
-	"github.com/Eyevinn/dash-mpd/mpd"
+	"github.com/fubotv/dash-mpd/mpd"
 	"github.com/stretchr/testify/require"
 )
 

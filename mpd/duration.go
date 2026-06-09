@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Eyevinn/dash-mpd/xml"
+	"github.com/fubotv/dash-mpd/xml"
 )
 
 // ParseDurationError for parsing xs:Duration string

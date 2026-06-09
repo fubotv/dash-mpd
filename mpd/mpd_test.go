@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Eyevinn/dash-mpd/xml"
+	"github.com/fubotv/dash-mpd/xml"
 	"github.com/google/go-cmp/cmp"
 
-	m "github.com/Eyevinn/dash-mpd/mpd"
+	m "github.com/fubotv/dash-mpd/mpd"
 
 	"aqwari.net/xml/xmltree"
 	"github.com/stretchr/testify/require"

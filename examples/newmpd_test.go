@@ -3,9 +3,9 @@ package mpd_test
 import (
 	"fmt"
 
-	"github.com/Eyevinn/dash-mpd/xml"
+	"github.com/fubotv/dash-mpd/xml"
 
-	"github.com/Eyevinn/dash-mpd/mpd"
+	"github.com/fubotv/dash-mpd/mpd"
 )
 
 func ExampleNewMPD() {
